@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 
 # Read the dataset from the CSV file
-iris_data <- read.csv("iris.csv")
+iris_data <- read.csv("IRIS.csv")
 
 # Display a summary of the data
 print(summary(iris_data))
